@@ -21,20 +21,15 @@ The upcoming website is designed with a responsive, mobile-first layout using so
 like Rose Gold, Dark Emerald Green, and Deep Black. 
 The site architecture is organized into five main sections which are the following: 
 
-### Homepage: 
-Displays core brand highlights, key studio announcements, high-resolution visual showcases, and quick booking access.
+### Homepage: Displays core brand highlights, key studio announcements, high-resolution visual showcases, and quick booking access.
 ---
-### About Us:
-The site will highlight Lisa's background include her core business values, and commitment to hygiene and precision.
+### About Us: The site will highlight Lisa's background include her core business values, and commitment to hygiene and precision.
 ---
-### Services & Pricing: 
-The site outlines itemized pricing for acrylic overlays, tip sets, toe reconstructions, and design add-ons.
+### Services & Pricing: The site outlines itemized pricing for acrylic overlays, tip sets, toe reconstructions, and design add-ons.
 ---
-### Studio Policies & FAQ:
-Clearly details deposit rules as well as cancellation windows, guest limits, and the 3-day feedback policy.
+### Studio Policies & FAQ: Clearly details deposit rules as well as cancellation windows, guest limits, and the 3-day feedback policy.
 ---
-### Booking & Contact Portal:
-Integrates the step-by-step submission form, Absa payment details, proof-of-payment upload options, and direct Instagram links.
+### Booking & Contact Portal: Integrates the step-by-step submission form, Absa payment details, proof-of-payment upload options, and direct Instagram links.
 
 
 
