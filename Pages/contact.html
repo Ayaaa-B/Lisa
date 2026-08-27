@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nails by Lisa - Contact & Bookings</title>
+</head>
+<body>
+
+    <header>
+        <!-- Navigation links -->
+        <nav> 
+            <a href="index.html">HOME</a> | 
+            <a href="about.html">ABOUT US</a> | 
+            <a href="services.html">SERVICES</a> | 
+            <a href="enquiry.html">ENQUIRY</a> | 
+            <a href="contact.html">CONTACT</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="get-in-touch">
+            <h2>Get in Touch</h2>
+            <ul>
+                <li><strong>Instagram:</strong> <a href="https://instagram.com/nailsbylisam_" target="_blank">@nailsbylisam_</a></li>
+                <li><strong>Deposit:</strong> R50 required to secure appointment slot</li>
+                <li><strong>Banking Details:</strong> Absa Bank | Savings Acc: 9346292805</li>
+                <li><strong>Studio Hours:</strong> By Appointment Only (Strict 15-min grace period)</li>
+            </ul>
+        </section>
+
+        <section id="our-studio">
+            <h2>Our Studio</h2>
+            <ul>
+                <li><strong>Location:</strong> East London, South Africa (Boutique Home Studio)</li>
+                <li><strong>Address & Time Slot:</strong> Shared privately via Instagram DM after R50 deposit and proof of payment are confirmed.</li>
+                <li><strong>Studio Policy Note:</strong> Max 1 guest permitted. No children allowed. No house calls.</li>
+            </ul>
+        </section>
+
+        <section id="booking-inquiry-form">
+            <h2>Booking Inquiry Form</h2>
+            <form action="#" method="POST" enctype="multipart/form-data">
+                
+                <p>
+                    <label for="name">Your Name:</label><br>
+                    <input type="text" id="name" name="name" placeholder="Tell us who you are" required>
+                </p>
+
+                <p>
+                    <label for="contact-info">Phone / Instagram Handle:</label><br>
+                    <input type="text" id="contact-info" name="contact_info" placeholder="Where we can reach you" required>
+                </p>
+
+                <p>
+                    <label for="service-type">Service Required:</label><br>
+                    <select id="service-type" name="service_type" required>
+                        <option value="" disabled selected>Select a service</option>
+                        <option value="acrylic-overlay">Acrylic Overlay</option>
+                        <option value="full-set-tips">Full Set with Tips</option>
+                        <option value="pedicure-plain">Pedicure (Plain Overlay)</option>
+                        <option value="pedicure-reconstruction">Pedicure (Toe Reconstruction)</option>
+                        <option value="add-ons-only">Custom Art / Add-ons Only</option>
+                    </select>
+                </p>
+
+                <p>
+                    <label for="add-ons">Add-ons (Optional):</label><br>
+                    <input type="checkbox" id="french-tips" name="add_ons[]" value="french-tips">
+                    <label for="french-tips">French Tips</label><br>
+                    <input type="checkbox" id="rhinestones" name="add_ons[]" value="rhinestones">
+                    <label for="rhinestones">Rhinestones</label><br>
+                    <input type="checkbox" id="glitter" name="add_ons[]" value="glitter">
+                    <label for="glitter">Glitter Polish</label>
+                </p>
+
+                <p>
+                    <label for="pop-upload">Proof of Payment (R50 Deposit):</label><br>
+                    <input type="file" id="pop-upload" name="pop_upload" accept="image/*,.pdf">
+                </p>
+
+                <p>
+                    <label for="message">Message & Preferred Dates:</label><br>
+                    <textarea id="message" name="message" rows="5" placeholder="Tell us about your desired nail set, custom art ideas, or preferred appointment dates/times." required></textarea>
+                </p>
+
+                <p>
+                    <button type="submit">Submit Booking Request</button>
+                
+                </p>
+ 
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3344.3564765261876!2d27.847832175483006!3d-33.047080673551974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e66e15eeadd1cff%3A0xb1a61cb253ac7368!2s17%20Ncede%20St%2C%20Siyakha%2C%20KuGompo%20City!5e0!3m2!1sen!2sza!4v1786645406827!5m2!1sen!2sza"
+                width="600" 
+                height="450" 
+                style="border:0;" 
+                allowfullscreen="" 
+                loading="lazy"
+                 referrerpolicy="strict-origin-when-cross-origin">
+                </iframe>
+          
+            </form>
+        </section>
+    </main>
+
+</body>
+</html>
