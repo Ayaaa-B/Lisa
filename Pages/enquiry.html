@@ -4,31 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nails by Lisa - Service & Custom Art Enquiry</title>
+   <link rel="stylesheet" href="../css/style.css">
+   <link rel="icon" type="image/png" href="../assets/images/favicon.png">
 </head>
 <body>
 
     <header>
-       <!-- Navigation Links -->
-<nav>
-    <a href="index.html">HOME</a> |
-    <a href="about.html">ABOUT US</a> |
-    <a href="services.html">SERVICES</a> |
-    <a href="enquiry.html">ENQUIRY</a> |
-    <a href="contact.html">CONTACT</a>
+        <div class="logo">
+            <a href="index.html">Nails by Lisa</a>
+        </div>
+
+        <nav aria-label="Main Navigation">
+    <ul class="nav-links">
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="about.html">ABOUT US</a></li>
+        <li><a href="services.html">SERVICES</a></li>
+        <li><a href="enquiry.html">ENQUIRY</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+    </ul>
 </nav>
     </header>
 
     <main>
         <section id="enquiry-header">
-            <h1 style="color: #B76E79; text-align: center;">GENERAL & SERVICE ENQUIRIES</h1>
+            <h1>GENERAL &amp; SERVICE ENQUIRIES</h1>
             <p>Have questions regarding custom nail art, specific length options, or availability before securing your appointment? Send us a quick enquiry below.</p>
         </section>
 
-        <!--  Enquiry Form -->
         <section id="enquiry-form-section">
             <h2>Enquiry Form</h2>
-            <form action="#" method="POST">
-                
+
+            <form action="#" method="POST" class="form-container">
                 <p>
                     <label for="enquiry-name">Your Full Name:</label><br>
                     <input type="text" id="enquiry-name" name="enquiry_name" placeholder="Enter your full name" required>
@@ -44,8 +50,8 @@
                     <select id="enquiry-category" name="enquiry_category" required>
                         <option value="" disabled selected>Select a topic</option>
                         <option value="custom-art">Custom Art Quote / Design Consultation</option>
-                        <option value="pricing">Pricing & Length Options</option>
-                        <option value="policies">Studio Policies & Rules</option>
+                        <option value="pricing">Pricing &amp; Length Options</option>
+                        <option value="policies">Studio Policies &amp; Rules</option>
                         <option value="other">General Question</option>
                     </select>
                 </p>
@@ -56,18 +62,27 @@
                 </p>
 
                 <p>
-                    <button type="submit">Send Enquiry</button>
+                    <button type="submit" class="btn">Send Enquiry</button>
                 </p>
-
             </form>
         </section>
 
-        <!-- A Direct Contact Alternative -->
         <section id="direct-contact-note">
             <h3>Need Immediate Answers?</h3>
-            <p>Feel free to reach out directly on Instagram <a href="https://instagram.com/nailsbylisam_" target="_blank">@nailsbylisam_</a>. Please note that our precise home studio address and confirmed timeslots are provided only after a deposit booking submission.</p>
+            <p>Feel free to reach out directly on Instagram <a href="https://instagram.com/nailsbylisam_" target="_blank">@nailsbylisam_</a>.</p>
         </section>
     </main>
+
+ <footer>
+    <p>&copy; 2026 Nails by Lisa. All rights reserved.</p>
+
+    <a href="https://www.instagram.com/nailsbylisam_/" 
+       target="_blank" 
+       rel="noopener noreferrer"
+       aria-label="Visit Nails by Lisa on Instagram">
+        ◎ Instagram
+    </a>
+</footer>
 
 </body>
 </html>
