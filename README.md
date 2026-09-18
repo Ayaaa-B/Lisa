@@ -64,7 +64,7 @@ GitHub commits
 
 # Nails by Lisa
 
-This website is built using HTML, CSS, and JavaScript. It demonstrates a small business site structure, styling, and interactivity for learning and practice purposes.
+This website is built using HTML, CSS and JavaScript. It demonstrates a small business site structure, styling, and interactivity for learning and practice purposes.
 
 ## Features
 
