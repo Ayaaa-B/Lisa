@@ -45,7 +45,7 @@ GitHub commits
 | Replaced generic `<div>` elements | Use semantic HTML elements. |
 | Standardised the footer | Use the `<footer>` element consistently. |
 
-### Part 2 – CSS and Responsive Design
+### Part 2 – CSS and Responsive Designs
 
 | Change | Reason |
 |---|---|
