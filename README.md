@@ -22,7 +22,6 @@ External CSS
 Typography
 Layout
 Colours
-Hover/focus effects
 Media queries
 Responsive design
 Responsive navigation
