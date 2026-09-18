@@ -13,32 +13,32 @@ you are
 
 ### Part 2 – Part 1 Feedback Corrections
 
- | Change | Reason |
-|---|---|---|
- | Added in-text citations | To improve referencing and connect information to the existing reference list. |
- | Added sitemap section | To clearly show the website's page hierarchy and structure. |
- | Fixed folder tree symbols | To make the directory structure consistent and easier to read. |
- | Changed folder names to lowercase | To maintain consistent file and folder naming conventions. |
- | Moved `index.html` to the top of the tree | To clearly identify the homepage as the main entry point. |
- | Corrected comment formatting | Added a space after `#` in comments for consistency and readability. |
- | Replaced generic `<div>` elements with semantic HTML5 elements | Improved the HTML structure by using `<header>`, `<nav>`, `<main>` and `<footer>`. |
- | Standardised the footer | Removed the `<div class="footer">` approach and used the semantic `<footer>` element consistently. |
+| Change | Reason |
+|---|---|
+| Added in-text citations | Improve referencing. |
+| Added sitemap section | Show the website structure. |
+| Fixed folder tree symbols | Make the structure consistent. |
+| Changed folder names to lowercase | Keep naming consistent. |
+| Moved `index.html` to the top | Show the homepage first. |
+| Corrected comment formatting | Improve readability. |
+| Replaced generic `<div>` elements | Use semantic HTML elements. |
+| Standardised the footer | Use the `<footer>` element consistently. |
 
 ### Part 2 – CSS and Responsive Design
 
 | Change | Reason |
-|---|---|---|
- | Added external `style.css` | To apply consistent styling across all website pages. |
- | Added CSS reset and default styles | To create a consistent base style across browsers. |
-| Added typography styles | To improve font hierarchy, readability and visual consistency. |
-| Added Flexbox/Grid layouts | To structure website content effectively. |
- | Added colours and decorative styling | To improve the visual presentation of the website. |
- | Added pseudo-classes | To provide interactive hover, focus and active states. |
- | Added responsive breakpoints | To adapt the website to desktop, tablet and mobile screen sizes. |
- | Added responsive layout styling | To ensure content reorganises appropriately on smaller screens. |
- | Added responsive typography | To ensure headings and text remain readable on smaller devices. |
- | Updated responsive navigation | To make navigation easier to use on smaller screens. |
- | Improved responsive images | To ensure images resize correctly across different screen sizes. |
+|---|---|
+| Added external `style.css` | Style all pages consistently. |
+| Added CSS reset and default styles | Create a consistent base style. |
+| Added typography styles | Improve text readability. |
+| Added Flexbox/Grid layouts | Organise page content. |
+| Added colours and decoration | Improve the website appearance. |
+| Added pseudo-classes | Add hover, focus and active effects. |
+| Added responsive breakpoints | Support different screen sizes. |
+| Added responsive layout styling | Make the layout work on smaller screens. |
+| Added responsive typography | Keep text readable on small screens. |
+| Updated responsive navigation | Make navigation easier on small screens. |
+| Improved responsive images | Make images fit different screen sizes. |
 
 # Nails by Lisa
 
