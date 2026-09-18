@@ -29,7 +29,7 @@ Responsive navigation
 Responsive images
 Update README
 Update changelog
-Git commits
+GitHub commits
 
 
 
