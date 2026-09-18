@@ -2,8 +2,34 @@
 ## ST10524800
 ## WEDE5020 PART 2 
 
-## Part 1 
-you are 
+## Part 1 = Build the website
+
+HTML pages
+Navigation
+Images
+Forms
+Semantic HTML
+Sitemap
+Folder structure
+GitHub
+README
+References
+
+## Part 2 = Style and improve the website
+
+Fix Part 1 feedback
+External CSS
+Typography
+Layout
+Colours
+Hover/focus effects
+Media queries
+Responsive design
+Responsive navigation
+Responsive images
+Update README
+Update changelog
+Git commits
 
 
 
