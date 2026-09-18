@@ -134,9 +134,6 @@ nailsbylisa/
 - Google Fonts, https://fonts.google.com (Google, 2025) — used for heading and body typefaces.
 - Google Maps Embed API, https://developers.google.com/maps/documentation/embed (Google, 2025) — used for the studio location map on contact.html.
 
-## Author
-Ayabukwa Buli
-
 ## Changelog
 
 **v1.0.0 – Initial Release (2025-08-27)**
