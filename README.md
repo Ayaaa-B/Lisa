@@ -84,31 +84,18 @@ This website is built using HTML, CSS and JavaScript. It demonstrates a small bu
 All five pages share the same navigation bar so every page links back to every other page.
 ```
 ```
-nailsbylisa/
+Lisa/
 │
-├── index.html                 ← HOME PAGE
+├── index.html
+├── about.html
+├── services.html
+├── enquiry.html
+├── contact.html
 │
 ├── assets/
-│   └── images/
-│       ├── nail-set1.jpeg
-│       ├── nail-set2.jpeg
-│       ├── nail-set3.jpeg
-│       ├── nail-set4.jpeg
-│       └── nail-set5.jpeg
-│
 ├── css/
-│   └── style.css
-│
 ├── js/
-│
 ├── miscellaneous/
-│
-├── pages/
-│   ├── about.html
-│   ├── services.html
-│   ├── enquiry.html
-│   └── contact.html
-│
 ├── README.md
 └── sitemap.xml
 ```
