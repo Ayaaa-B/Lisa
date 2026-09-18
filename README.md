@@ -8,21 +8,37 @@ you are
 
 
 
-## Part 1 Improvements Completed in Part 2
-Part 1 Feedback	Improvement Completed in Part 2
-Add in-text citations	Added in-text citations where required.
-Add a sitemap section	Added a simple sitemap tree showing the website structure.
-Fix inconsistent symbols in folder tree	Standardised the symbols used in the folder structure.
-Make all folder names lowercase	Changed folder names to lowercase for consistency.
-Move index.html to the top	Placed index.html at the top of the folder structure.
-Add a space after # in comments	Updated comments to use consistent formatting, such as # Comment.
-Replace generic <div> elements	Replaced appropriate generic <div> elements with semantic HTML5 elements such as <header>, <nav>, <main>, <section>, and <footer>.
-Avoid mixing footer styles	Removed the conflicting <div class="footer"> approach and used the semantic <footer> element consistently.
 
+## Changelog
 
+### Part 2 – Part 1 Feedback Corrections
 
-## Part 2 Checklist & Implementation
+ | Change | Reason |
+|---|---|---|
+ | Added in-text citations | To improve referencing and connect information to the existing reference list. |
+ | Added sitemap section | To clearly show the website's page hierarchy and structure. |
+ | Fixed folder tree symbols | To make the directory structure consistent and easier to read. |
+ | Changed folder names to lowercase | To maintain consistent file and folder naming conventions. |
+ | Moved `index.html` to the top of the tree | To clearly identify the homepage as the main entry point. |
+ | Corrected comment formatting | Added a space after `#` in comments for consistency and readability. |
+ | Replaced generic `<div>` elements with semantic HTML5 elements | Improved the HTML structure by using `<header>`, `<nav>`, `<main>` and `<footer>`. |
+ | Standardised the footer | Removed the `<div class="footer">` approach and used the semantic `<footer>` element consistently. |
 
+### Part 2 – CSS and Responsive Design
+
+| Change | Reason |
+|---|---|---|
+ | Added external `style.css` | To apply consistent styling across all website pages. |
+ | Added CSS reset and default styles | To create a consistent base style across browsers. |
+| Added typography styles | To improve font hierarchy, readability and visual consistency. |
+| Added Flexbox/Grid layouts | To structure website content effectively. |
+ | Added colours and decorative styling | To improve the visual presentation of the website. |
+ | Added pseudo-classes | To provide interactive hover, focus and active states. |
+ | Added responsive breakpoints | To adapt the website to desktop, tablet and mobile screen sizes. |
+ | Added responsive layout styling | To ensure content reorganises appropriately on smaller screens. |
+ | Added responsive typography | To ensure headings and text remain readable on smaller devices. |
+ | Updated responsive navigation | To make navigation easier to use on smaller screens. |
+ | Improved responsive images | To ensure images resize correctly across different screen sizes. |
 
 # Nails by Lisa
 
