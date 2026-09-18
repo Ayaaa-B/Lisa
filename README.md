@@ -40,7 +40,8 @@ All five pages share the same navigation bar, so every page links back to every 
 
 ## File & Folder Structure
 
- nailsbylisa/
+
+nailsbylisa/
 │
 ├── assets/
 │   └── images/
@@ -50,13 +51,17 @@ All five pages share the same navigation bar, so every page links back to every 
 │       ├── nail-set4.jpeg
 │       └── nail-set5.jpeg
 │
+
 ├── css/
 │   └── style.css
 │
+
 ├── js/
 │
+
 ├── miscellaneous/
 │
+
 └── pages/
     ├── index.html
     ├── about.html
