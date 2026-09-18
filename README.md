@@ -72,21 +72,21 @@ This website is built using HTML, CSS and JavaScript. It demonstrates a small bu
 - Home, About Us, Services, Enquiry, and Contact sections
 - Font Awesome icons integration
 - Basic CSS styling
+```
+  ## Sitemap
 
-## Sitemap
-
-    index.html (Home)
-    ├── about.html
-    ├── services.html
-    ├── enquiry.html
-    └── contact.html
+- index.html — Home
+- pages/about.html — About Us
+- pages/services.html — Services
+- pages/enquiry.html — Enquiry
+- pages/contact.html — Contact
 
 All five pages share the same navigation bar so every page links back to every other page.
-
-## File & Folder Structure
-
-```text
+```
+```
 nailsbylisa/
+│
+├── index.html                 ← HOME PAGE
 │
 ├── assets/
 │   └── images/
@@ -103,14 +103,15 @@ nailsbylisa/
 │
 ├── miscellaneous/
 │
-└── pages/
-    ├── index.html
-    ├── about.html
-    ├── services.html
-    ├── enquiry.html
-    └── contact.html
+├── pages/
+│   ├── about.html
+│   ├── services.html
+│   ├── enquiry.html
+│   └── contact.html
+│
+├── README.md
+└── sitemap.xml
 ```
-
 ## Installation / How to Run
 
 1. Download or clone this repository.
