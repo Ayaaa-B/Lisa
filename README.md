@@ -81,7 +81,7 @@ This website is built using HTML, CSS and JavaScript. It demonstrates a small bu
     ├── enquiry.html
     └── contact.html
 
-All five pages share the same navigation bar, so every page links back to every other page.
+All five pages share the same navigation bar so every page links back to every other page.
 
 ## File & Folder Structure
 
