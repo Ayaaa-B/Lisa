@@ -30,7 +30,6 @@ Update README
 Update changelog
 GitHub commits
 
-
 ## Changelog
 
 ### Part 2 – Part 1 Feedback Corrections
