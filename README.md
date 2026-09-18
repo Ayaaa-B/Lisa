@@ -90,7 +90,7 @@ All five pages share the same navigation bar, so every page links back to every 
 
 ## File & Folder Structure
 
-
+```text
 nailsbylisa/
 │
 ├── assets/
@@ -101,23 +101,20 @@ nailsbylisa/
 │       ├── nail-set4.jpeg
 │       └── nail-set5.jpeg
 │
-
 ├── css/
 │   └── style.css
 │
-
 ├── js/
 │
-
 ├── miscellaneous/
 │
-
 └── pages/
     ├── index.html
     ├── about.html
     ├── services.html
     ├── enquiry.html
     └── contact.html
+```
 
 ## Installation / How to Run
 
