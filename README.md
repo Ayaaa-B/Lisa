@@ -9,7 +9,15 @@ you are
 
 
 ## Part 1 Improvements Completed in Part 2
-
+Part 1 Feedback	Improvement Completed in Part 2
+Add in-text citations	Added in-text citations where required.
+Add a sitemap section	Added a simple sitemap tree showing the website structure.
+Fix inconsistent symbols in folder tree	Standardised the symbols used in the folder structure.
+Make all folder names lowercase	Changed folder names to lowercase for consistency.
+Move index.html to the top	Placed index.html at the top of the folder structure.
+Add a space after # in comments	Updated comments to use consistent formatting, such as # Comment.
+Replace generic <div> elements	Replaced appropriate generic <div> elements with semantic HTML5 elements such as <header>, <nav>, <main>, <section>, and <footer>.
+Avoid mixing footer styles	Removed the conflicting <div class="footer"> approach and used the semantic <footer> element consistently.
 
 
 
