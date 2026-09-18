@@ -2,7 +2,7 @@
 ## ST10524800
 ## WEDE5020 PART 2 
 
-## Part 1 = Build the website
+## Part 1  Build the website
 
 HTML pages
 Navigation
@@ -15,7 +15,7 @@ GitHub
 README
 References
 
-## Part 2 = Style and improve the website
+## Part 2  Style and improve the website
 
 Fix Part 1 feedback
 External CSS
