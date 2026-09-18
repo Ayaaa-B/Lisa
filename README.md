@@ -163,7 +163,6 @@ See responsive design snippets:
 - ./assets/image320px
 - ./assets/image678px
 
- 
 ## Improvements from Part 2 Feedback
 
 | Improvement | What Was Done |
@@ -178,6 +177,7 @@ See responsive design snippets:
 | Standardised the footer | Used the `<footer>` tag instead of mixing it with `<div class="footer">`. |
 
 ## References 
+
 See @nailsbylisam_'s profile on Instagram: 
 https://www.instagram.com/nailsbylisam_?utm_source=ig_web_button_sha
 re_sheet&igsh=ODdmZWVhMTFiMw== 
