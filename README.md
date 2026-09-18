@@ -87,13 +87,18 @@ All five pages share the same navigation bar so every page links back to every o
 Lisa/
 │
 ├── index.html
-├── about.html
-├── services.html
-├── enquiry.html
-├── contact.html
+│
+├── Pages/
+│   ├── about.html
+│   ├── services.html
+│   ├── enquiry.html
+│   └── contact.html
 │
 ├── assets/
+│   └── images/
+│
 ├── css/
+│   └── style.css
 ├── js/
 ├── miscellaneous/
 ├── README.md
