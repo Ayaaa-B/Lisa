@@ -60,7 +60,9 @@ header {
 }
 
 
-/* Logo */
+/* =====================================================
+   LOGO
+   ===================================================== */
 
 header .logo a {
     color: var(--rose-gold-light);
@@ -563,13 +565,6 @@ section {
    BUTTONS
    ===================================================== */
 
-.button-container {
-    text-align: center;
-
-    margin-top: 20px;
-}
-
-
 .btn,
 button,
 input[type="submit"] {
@@ -738,9 +733,7 @@ input[type="radio"] {
 
 /*
    NOTE:
-   .panel uses display:none in your original example,
-   which requires JavaScript to make it open.
-   For pure CSS, we leave the panel visible.
+   .panel remains visible.
 */
 
 .panel {
@@ -794,6 +787,54 @@ input[type="radio"] {
     font-size: medium;
 
     text-align: center;
+}
+
+
+/* =====================================================
+   FOOTER
+   ===================================================== */
+
+footer {
+    background-color: var(--emerald);
+
+    border-top: 3px solid var(--rose-gold);
+
+    padding: 20px;
+
+    text-align: center;
+}
+
+
+footer p {
+    color: var(--white);
+
+    font-size: 0.85rem;
+
+    margin-bottom: 8px;
+}
+
+
+/* Instagram link in footer */
+
+footer a {
+    color: var(--rose-gold-light);
+
+    text-decoration: none;
+
+    font-weight: 600;
+
+    font-size: 1rem;
+
+    letter-spacing: 0.5px;
+
+    transition: 0.3s ease;
+}
+
+
+footer a:hover {
+    color: var(--white);
+
+    text-decoration: underline;
 }
 
 
@@ -930,41 +971,4 @@ input[type="radio"] {
 
         text-align: center;
     }
-}
-
-
-/* =====================================================
-   FOOTER
-   ===================================================== */
-
-footer {
-    background-color: var(--emerald);
-
-    border-top: 3px solid var(--rose-gold);
-
-    padding: 20px;
-
-    text-align: center;
-}
-
-
-footer p {
-    color: var(--white);
-
-    font-size: 0.85rem;
-}
-
-/* Instagram link in footer */
-footer a {
-    color: var(--accent);
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 1rem;
-    letter-spacing: 0.5px;
-    transition: 0.3s ease;
-}
-
-footer a:hover {
-    color: var(--secondary);
-    text-decoration: underline;
 }
