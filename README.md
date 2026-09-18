@@ -171,15 +171,18 @@ See responsive design snippets:
 - ./assets/image678px
 
  
- ## Improvements from part 2 feedbaCK
- Add in-text citations 
-Add a sitemap section with a simple tree or diagram 
-Fix inconsistent symbols in the folder tree 
-Make all folder names lowercase 
-Move index.html to the top of the tree, not the bottom.
-Add a space after # in comments
-Replace generic <div>s with semantic tags like <header>, <nav>, <main>, <footer> in your HTML files.
-Don't mix a <div class="footer"> with real <footer> tags — pick one.\
+## Improvements from Part 2 Feedback
+
+| Improvement | What Was Done |
+|---|---|
+| Added in-text citations | Added citations to the relevant information. |
+| Added a sitemap section | Added a simple tree showing the website structure. |
+| Fixed folder tree symbols | Made the folder tree symbols consistent. |
+| Changed folder names to lowercase | Changed all folder names to lowercase. |
+| Moved `index.html` to the top | Placed `index.html` at the top of the folder tree. |
+| Added a space after `#` in comments | Updated comments for better formatting. |
+| Replaced generic `<div>` elements | Used semantic tags such as `<header>`, `<nav>`, `<main>` and `<footer>`. |
+| Standardised the footer | Used the `<footer>` tag instead of mixing it with `<div class="footer">`. |
 
 ## References 
 See @nailsbylisam_'s profile on Instagram: 
