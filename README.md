@@ -84,25 +84,38 @@ This website is built using HTML, CSS and JavaScript. It demonstrates a small bu
 All five pages share the same navigation bar so every page links back to every other page.
 ```
 ```
-Lisa/
+Lisa
 │
 ├── index.html
+│      │
+│      ├── HOME → index.html
+│      ├── ABOUT → Pages/about.html
+│      ├── SERVICES → Pages/services.html
+│      ├── ENQUIRY → Pages/enquiry.html
+│      └── CONTACT → Pages/contact.html
 │
-├── Pages/
+├── Pages
+│   │
 │   ├── about.html
+│   │      ├── HOME → ../index.html
+│   │      ├── ABOUT → about.html
+│   │      ├── SERVICES → services.html
+│   │      ├── ENQUIRY → enquiry.html
+│   │      └── CONTACT → contact.html
+│   │
 │   ├── services.html
+│   │
 │   ├── enquiry.html
+│   │
 │   └── contact.html
 │
-├── assets/
-│   └── images/
+├── assets
+│   └── images
 │
-├── css/
+├── css
 │   └── style.css
-├── js/
-├── miscellaneous/
-├── README.md
-└── sitemap.xml
+│
+└── js
 ```
 ## Installation / How to Run
 
