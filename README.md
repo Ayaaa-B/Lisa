@@ -176,6 +176,7 @@ See responsive design snippets:
 | Replaced generic `<div>` elements | Used semantic tags such as `<header>`, `<nav>`, `<main>` and `<footer>`. |
 | Standardised the footer | Used the `<footer>` tag instead of mixing it with `<div class="footer">`. |
 
+
 ## References 
 
 See @nailsbylisam_'s profile on Instagram: 
