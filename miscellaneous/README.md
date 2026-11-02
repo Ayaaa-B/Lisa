@@ -22,29 +22,26 @@ All five pages share the same navigation bar, so every page links back to every 
 
 ## File & Folder Structure
 
- nailsbylisa/
+Lisa/
+│
+├── index.html
+│
+├── Pages/
+│   ├── about.html
+│   ├── services.html
+│   ├── enquiry.html
+│   └── contact.html
 │
 ├── assets/
 │   └── images/
-│       ├── nail-set1.jpeg
-│       ├── nail-set2.jpeg
-│       ├── nail-set3.jpeg
-│       ├── nail-set4.jpeg
-│       └── nail-set5.jpeg
 │
 ├── css/
 │   └── style.css
 │
 ├── js/
-│
 ├── miscellaneous/
-│
-└── pages/
-    ├── index.html
-    ├── about.html
-    ├── services.html
-    ├── enquiry.html
-    └── contact.html
+├── README.md
+└── sitemap.xml
 
 ## Installation / How to Run
 
