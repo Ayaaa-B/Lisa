@@ -30,6 +30,27 @@ Update README
 Update changelog
 GitHub commits
 
+## Part 3 Complete and Publish the Website
+Improve Part 2 feedback
+JavaScript functionality
+Interactive features
+Form validation
+Firebase authentication
+Firestore database
+Booking system
+Owner dashboard
+SEO optimisation
+Website performance
+Website security
+Responsive testing
+Desktop and mobile testing
+Update README
+Update changelog
+Update references
+GitHub commits and push
+Publish live website
+Final website testing
+
 ## Changelog
 
 ### Part 2 – Part 1 Feedback Corrections
