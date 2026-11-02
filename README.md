@@ -176,6 +176,48 @@ See responsive design snippets:
 | Replaced generic `<div>` elements | Used semantic tags such as `<header>`, `<nav>`, `<main>` and `<footer>`. |
 | Standardised the footer | Used the `<footer>` tag instead of mixing it with `<div class="footer">`. |
 
+## Improvements from Part 2 Feedback
+More advanced responsive typography.
+
+Better desktop and mobile layout adjustments.
+
+More consistent form styling.
+
+Improved accessibility.
+
+Better popup usability.
+
+More reusable CSS variables.
+
+Additional styling for feedback messages and embedded content.
+
+## PART 3 CHANGELOG
+
+Improved CSS typography styles using responsive font sizes to create a clearer and more consistent appearance across different screen sizes.
+
+Updated the CSS brand colour variables to improve consistency and make the website easier to maintain.
+
+Improved the desktop layout by adjusting content widths, spacing, alignment and section styling.
+
+Enhanced the navigation menu by improving link spacing, hover effects and responsive behaviour.
+
+Improved the responsive design by adjusting layouts for desktop, tablet and mobile screen sizes.
+
+Updated the Contact and Enquiry form styling to improve readability, input spacing and consistency.
+
+Added styling for form success and error messages to provide clearer feedback to users.
+
+Improved the gallery image presentation through updated spacing, sizing, borders and hover effects.
+
+Enhanced the booking popup styling to improve scrolling, input fields, buttons and usability on smaller screens.
+
+Improved accessibility by adding keyboard focus indicators and reduced-motion support.
+
+Updated the styling of embedded maps and videos to improve responsiveness.
+
+Organised the CSS using reusable variables and consistent styling rules to improve maintainability.
+
+
 
 ## References 
 
